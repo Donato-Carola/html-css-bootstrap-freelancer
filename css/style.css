@@ -1,10 +1,30 @@
 
+/*header{
+    background-color: blueviolet;
+}*/
 
-
-h1{
+h2,
+.third_section{
     background-color: aqua;
+   
 }
 
-h2{
-    background-color: blue;
+
+
+section.first_section{
+    background-color: aqua;
+    padding: 1rem 0;
+    line-height: 2rem;
+}
+
+section.second_section>div div{
+ background-color: cadetblue;
+ margin-bottom: 2rem;
+ padding: 10rem 0rem;
+ border: 1px solid white;
+
+}
+
+.third_section{
+    padding: 10rem 0;
 }
