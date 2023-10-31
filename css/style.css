@@ -25,6 +25,16 @@ section.second_section>div div{
 
 }
 
-.third_section{
+.third_section,
+footer{
     padding: 10rem 0;
 }
+.fourth_section{
+    background-color: aquamarine;
+    padding: 10rem 0;
+}
+
+footer{
+    background-color: brown;
+}
+
