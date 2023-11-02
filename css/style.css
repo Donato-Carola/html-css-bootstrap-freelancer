@@ -1,23 +1,15 @@
-
-header{
-    background-color:rgb(44, 62, 80);
-    
+header {
+  background-color: rgb(44, 62, 80);
 }
-
-
-
-
-
 
 section.first_section,
-section.third_section{
-    background-color: rgb(26, 188, 156);
-   
+section.third_section {
+  background-color: rgb(26, 188, 156);
 }
 
-section.first_section img.my_img{
-height: 150px;
-width: 150px;
+section.first_section img.my_img {
+  height: 150px;
+  width: 150px;
 }
 
 /*.barretta{
@@ -27,29 +19,33 @@ width: 150px;
     
 }*/
 
-
-
-
-
-section.second_section>div div>img{
-    width: 100%;
-    border-radius: 10px;
-
- 
- 
-
- 
-
+section.second_section > div div > img {
+  width: 100%;
+  border-radius: 10px;
 }
 
-
-
-
-
-footer{
-    background-color: rgb(58, 84, 109);
+footer {
+  background-color: rgb(58, 84, 109);
 }
 
-.my_bg_color{
-    background-color: rgb(44, 62, 80);
+.my_bg_color {
+  background-color: rgb(44, 62, 80);
+}
+
+.dimensione_barretta{
+    width: 10%;
+    
+   
+}
+
+.barretta_black{
+    border: 1px solid black;
+}
+
+.barretta_white{
+    border: 1px solid white;
+}
+
+i.fa-star{
+    padding: 0 0.5rem;
 }
