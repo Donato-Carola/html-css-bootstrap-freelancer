@@ -15,16 +15,33 @@ h2,
 
 
 section.first_section{
-    background-color: aqua;
-    padding: 1rem 0;
-    line-height: 2rem;
+    background-color: rgb(26, 188, 156);
+   
 }
 
-section.second_section>div div{
- background-color: cadetblue;
- margin-bottom: 2rem;
- padding: 10rem 0rem;
- border: 1px solid white;
+section.first_section img.my_img{
+height: 150px;
+width: 150px;
+}
+
+/*.barretta{
+    padding: 1px 0;
+    width: 50%;
+    background-color: aliceblue;
+    
+}*/
+
+
+
+
+
+section.second_section>div div>img{
+    width: 100%;
+    border-radius: 10px;
+
+ 
+ 
+
  
 
 }
