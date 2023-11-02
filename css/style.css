@@ -6,15 +6,11 @@ header{
 
 
 
-h2,
-.third_section{
-    background-color: aqua;
-   
-}
 
 
 
-section.first_section{
+section.first_section,
+section.third_section{
     background-color: rgb(26, 188, 156);
    
 }
@@ -46,16 +42,11 @@ section.second_section>div div>img{
 
 }
 
-.third_section,
-footer{
-    padding: 10rem 0;
-}
-.fourth_section{
-    background-color: aquamarine;
-    padding: 10rem 0;
-}
+
+
+
 
 footer{
-    background-color: brown;
+    background-color: rgb(58, 84, 109);
 }
 
